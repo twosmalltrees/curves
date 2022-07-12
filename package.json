@@ -22,9 +22,5 @@
   },
   "lint-staged": {
     "**/*": "prettier --write --ignore-unknown"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/twosmalltrees/curves.git"
   }
 }
