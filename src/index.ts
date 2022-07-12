@@ -11,7 +11,7 @@ export class Vec2 {
     return new Vec2(x, y);
   }
 
-  subtract(vec: Vec2): Vec2 {
+  sub(vec: Vec2): Vec2 {
     const x = this.x - vec.x;
     const y = this.y - vec.y;
     return new Vec2(x, y);
@@ -44,7 +44,7 @@ export class Vec3 {
     return new Vec3(x, y, z);
   }
 
-  subtract(vec: Vec3): Vec3 {
+  sub(vec: Vec3): Vec3 {
     const x = this.x - vec.x;
     const y = this.y - vec.y;
     const z = this.z - vec.z;
