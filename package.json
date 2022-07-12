@@ -1,5 +1,5 @@
 {
-  "name": "curves",
+  "name": "@twosmalltrees/curves",
   "version": "1.0.0",
   "description": "homebrew vector and curve lib",
   "main": "src/index.js",
