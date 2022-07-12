@@ -1,8 +1,8 @@
 {
   "name": "@twosmalltrees/curves",
-  "version": "v0.0.0-alpha.7",
+  "version": "v0.0.0-alpha.8",
   "description": "homebrew vector and curve lib",
-  "main": "src/index.js",
+  "main": "dist/index.js",
   "scripts": {
     "test": "test",
     "build": "npx tsc",
