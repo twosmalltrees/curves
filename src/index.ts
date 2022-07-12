@@ -1,4 +1,4 @@
-class Vec2 {
+export class Vec2 {
   constructor(readonly x: number, readonly y: number) {}
 
   get magnitude(): number {
@@ -28,7 +28,7 @@ class Vec2 {
   }
 }
 
-class Vec3 {
+export class Vec3 {
   constructor(readonly x: number, readonly y: number, readonly z: number) {}
 
   get magnitude(): number {
