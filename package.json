@@ -1,6 +1,6 @@
 {
   "name": "@twosmalltrees/curves",
-  "version": "v0.0.0-alpha.11",
+  "version": "v0.0.0-alpha.12",
   "description": "homebrew vector and curve lib",
   "main": "dist/index.js",
   "scripts": {
